@@ -4,4 +4,4 @@ def count_words(data_field):
     return len(split_data)
 
 count_words("aku sayang sekali sama rika harnita")
-print(count_words)
+print(count_words)aaa
